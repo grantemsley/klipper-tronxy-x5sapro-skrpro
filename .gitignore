@@ -1,2 +1,2 @@
 # Ignore the backup printer.cfg files klipper creates
-printer-\d{8}_\d{6}.cfg
+printer-[0-9]*_[0-9]*.cfg
